@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">KhEC Notice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Setting</string>
+
+    <!-- LogInActivity Strings -->
+    <string name="title_activity_log_in">Log In</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="tv_signup">Click Here To<![CDATA[\n]]>Sign Up</string>
+    <string name="error_usernameField">Please Type Your Username</string>
+    <string name="error_passwordField">Please Type Your Password</string>
+    <string name="successful_log_in">Login Successful</string>
+    <!-- End of LoginActivity -->
+
+
+    <!-- SignUpActivity Strings -->
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="select_faculty">Select Faculty</string>
+
+    <string-array name="faculties">
+        <item>Architecture</item>
+        <item>Civil</item>
+        <item>Computer</item>
+        <item>Electronics</item>
+    </string-array>
+
+    <string name="semester">Semester</string>
+
+    <string-array name="array_semester">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+        <item>VI</item>
+        <item>VII</item>
+        <item>VIII</item>
+    </string-array>
+    <string-array name="array_semester_architecture">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+        <item>VI</item>
+        <item>VII</item>
+        <item>VIII</item>
+        <item>IX</item>
+        <item>X</item>
+    </string-array>
+
+    <string name="sex">Sex</string>
+
+    <string-array name="array_sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="username">Pick A Username</string>
+    <string name="hint_email">Email</string>
+    <string name="text_signup">Sign Up</string>
+    <string name="error_usernameField_signup">Username can\'t be Empty.</string>
+    <string name="error_passwordField_signup">Password can\'t be Empty.</string>
+    <string name="error_emailField_signup">Email can\'t be Empty.</string>
+    <string name="successful_sign_up">Sign Up Successful</string>
+
+
+    <!-- End of SignUpActivity Strings -->
+
+
+    <string name="title_activity_display_routine">Class Routine</string>
+    <!-- Sections Pager Adapter Strings -->
+
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+
+    <!-- End of sectionpageradapter -->
+    <!-- Strings of Display Routine activity -->
+    <!-- <string name="title_activity_dispaly_routine">DispalyRoutine Activity</string> -->
+    <string name="action_update">Update</string>
+
+    <!-- end of Display routine acitvity -->
+    <string name="contact_developer">Tap Refresh Button To Download Class Routine</string>
+
+
+</resources>
